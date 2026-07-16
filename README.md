@@ -27,7 +27,6 @@ Tested under concurrent load using `k6` to validate architectural improvements:
 * **Real-Time Telemetry:** Custom `/api/metrics` endpoint providing insights into system uptime, request latency, and throughput.
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License. 
 ---
 Copyright (c) 2026 Bhaskar Madiredla
