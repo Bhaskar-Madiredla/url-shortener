@@ -1,0 +1,4 @@
+# Ignore build/dist folders for language stats
+build/* linguist-vendored
+dist/* linguist-vendored
+src/main/resources/static/* linguist-vendored
