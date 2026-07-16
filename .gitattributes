@@ -1,0 +1,5 @@
+# Tell GitHub to ignore frontend files for language statistics
+frontend/* linguist-vendored
+
+# Explicitly ensure Java files are counted
+*.java linguist-language=Java

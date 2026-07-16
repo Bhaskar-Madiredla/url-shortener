@@ -1,0 +1,12 @@
+# Root build artifacts
+build/
+bin/
+.gradle/
+.settings/
+.classpath
+.project
+
+# Frontend artifacts
+frontend/node_modules/
+frontend/build/
+frontend/dist/
